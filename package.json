@@ -1,0 +1,19 @@
+{
+  "name": "konsole.js-repository-server",
+  "version": "0.0.1",
+  "description": "Command repository server for konsole.js",
+  "main": "konsole-repository.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsay/konsole.js-repository-server.git"
+  },
+  "author": "Michal Pietraszko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harsay/konsole.js-repository-server/issues"
+  },
+  "homepage": "https://github.com/Harsay/konsole.js-repository-server#readme"
+}
